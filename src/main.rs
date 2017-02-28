@@ -1,3 +1,9 @@
+/*
+    Credit for this goes to the Rust Team.
+    I really wanted to try it out and experiment.
+    I added the modulus.
+*/
+
 fn main() {
     // A simple integer calculator:
     // `+` or `-` means add or subtract by 1
